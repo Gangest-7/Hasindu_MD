@@ -12,7 +12,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@octokit/rest": "^21.0.2",
     "@vitalets/google-translate-api": "^9.2.1",
-    "@whiskeysockets/baileys": "^7.0.0",
+    "@whiskeysockets/baileys": "^6.7.12",
     "axios": "^1.7.9",
     "body-parser": "^1.20.3",
     "cheerio": "^1.0.0",
